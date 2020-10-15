@@ -1,0 +1,7 @@
+syntax = "proto3";
+package sap.internal.hello;
+hello cwa-server
+
+message HelloWorld {
+    string param1 = 1;
+}
