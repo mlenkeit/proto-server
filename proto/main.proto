@@ -1,0 +1,7 @@
+syntax = "proto3";
+package sap;
+hello cwa-server
+
+message Main {
+    string param1 = 1;
+}
